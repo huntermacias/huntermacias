@@ -8,4 +8,6 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've never had a cup of coffee 
 
+![Snake animation](https://github.com/huntermacias/huntermacias/blob/output/github-contribution-grid-snake.svg)
+
 <a href="https://app.daily.dev/huntermacias"><img src="https://api.daily.dev/devcards/0d0061104a434b529c657ed13d933f2e.png?r=k9d" width="400" alt="Hunter Macias's Dev Card"/></a>
