@@ -14,4 +14,6 @@
 
 [![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntermacias&show_icons=true&theme=radical)](https://github.com/huntermacias/github-readme-stats&show_icons=true&theme=radical)
 
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huntermacias&hide_progress=true)](https://github.com/huntermacias/github-readme-stats)
+
 <a href="https://app.daily.dev/huntermacias"><img src="https://api.daily.dev/devcards/0d0061104a434b529c657ed13d933f2e.png?r=k9d" width="400" alt="Hunter Macias's Dev Card"/></a>
