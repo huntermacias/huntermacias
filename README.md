@@ -11,6 +11,7 @@
 #### View my animation contributions :) 
 ![Snake animation](https://github.com/huntermacias/huntermacias/blob/output/github-contribution-grid-snake.svg)
 
-[![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntermacias)](https://github.com/huntermacias/github-readme-stats)
+
+[![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntermacias&show_icons=true&theme=radical)](https://github.com/huntermacias/github-readme-stats&show_icons=true&theme=radical)
 
 <a href="https://app.daily.dev/huntermacias"><img src="https://api.daily.dev/devcards/0d0061104a434b529c657ed13d933f2e.png?r=k9d" width="400" alt="Hunter Macias's Dev Card"/></a>
