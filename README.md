@@ -16,6 +16,16 @@
 
 [![My GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=huntermacias&theme=radical&border_radius=8.5&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/w3_css/w3_css-ar21.svg"></code>
+<br />
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
+<code><img width="10%" src="https://www.vectorlogo.zone/logos/canva/canva-ar21.svg"></code>
+
 [![Hunter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huntermacias)](https://github.com/huntermacias/github-readme-stats)
 
 <a href="https://app.daily.dev/huntermacias"><img src="https://api.daily.dev/devcards/0d0061104a434b529c657ed13d933f2e.png?r=k9d" width="400" alt="Hunter Macias's Dev Card"/></a>
