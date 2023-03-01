@@ -8,6 +8,8 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I've never had a cup of coffee 
 
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 #### View my animation contributions :) 
 ![Snake animation](https://github.com/huntermacias/huntermacias/blob/output/github-contribution-grid-snake.svg)
 
