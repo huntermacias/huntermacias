@@ -27,5 +27,5 @@
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huntermacias&theme=radical&layout=compact&langs_count=10)](#)
 
-[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&langs_count=15&username=huntermacias)](#)
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&langs_count=10&username=huntermacias)](#)
 
