@@ -25,5 +25,7 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-[![Hunter's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=huntermacias)](https://github.com/huntermacias/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huntermacias&theme=radical&layout=compact&langs_count=10)](#)
+
+[![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&langs_count=15&username=huntermacias)](#)
 
