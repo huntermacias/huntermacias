@@ -1,17 +1,13 @@
-### Hi there 👋
-
-
-- 🔭 I’m currently working on my building full-stack web apps
-- 🤔 I’m looking for help with finding a full-time position
-- 💬 Ask me about my coding services 
-- 📫 How to reach me: huntermacias20@gmail.com
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I've never had a cup of coffee 
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-#### View my animation contributions :) 
-![Snake animation](https://github.com/huntermacias/huntermacias/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+  <samp>
+    <a href="https://hunter-me.vercel.app/">me</a> .
+    <a href="https://hunter-me.vercel.app/notes">blog</a> .
+    <a href="https://hunter-me.vercel.app/creating">projects</a> .
+    <a href="https://twitter.com/huntermacias_">tweets</a> .
+    <a href="https://instagram.com/huntermacias">instagram</a> .
+    <a href="https://github.com/sponsors/huntermacias">sponsor</a>
+  </samp>
+</p>
 
 
 [![Hunter's GitHub stats](https://github-readme-stats.vercel.app/api?username=huntermacias&show_icons=true&theme=radical)](https://github.com/huntermacias/github-readme-stats&show_icons=true&theme=radical)
@@ -28,4 +24,6 @@
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=huntermacias&theme=radical&layout=compact&langs_count=10)](#)
 
 [![My wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?theme=radical&langs_count=5&username=huntermacias)](#)
+
+![Jokes Card](https://readme-jokes.vercel.app/api)
 
