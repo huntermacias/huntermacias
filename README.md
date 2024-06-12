@@ -37,10 +37,15 @@
 <h2 align="center">🔧 Technologies & Tools</h2>
 
 <p align="center">
-  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg" alt="Python" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg" alt="Java" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="React" />
-  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg" alt="Git" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" alt="Python" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/java/java-icon.svg" alt="Java" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="React" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" alt="Git" />
+  <img width="10%" src="https://upload.vectorlogo.zone/logos/javascript/images/239ec8a4-163e-4792-83b6-3f6d96911757.svg" alt="JavaScript" />
+  <img width="10%" src="https://www.vectorlogo.zone/logos/nuxtjs/nuxtjs-icon.svg" alt="Nuxt" />
+
+
 </p>
 
 ---
