@@ -34,8 +34,8 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           author_name: huntermacias # Replace with your name if different
-          author_email: "supercodersf@gmail.com" # Replace with your email
+          author_email: supercodersf@gmail.com # Replace with your email
           message: "Update snake game [skip ci]"
           add: 'snake-output/*' # Directory containing the generated files
           push: true
-          github_token: ${{ secrets.PAT_TOKEN }}
+          github_token: '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'
