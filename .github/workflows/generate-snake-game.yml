@@ -38,7 +38,4 @@ jobs:
           message: "Update snake game [skip ci]"
           add: 'snake-output/*' # Directory containing the generated files
           push: true
-          # Remove the branch input as it's invalid
-          # branch: main
-          # If using a PAT, uncomment the following line and comment out push: true
           github_token: ${{ secrets.PAT_TOKEN }}
