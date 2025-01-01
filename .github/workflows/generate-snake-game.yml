@@ -38,4 +38,3 @@ jobs:
           message: "Update snake game [skip ci]"
           add: 'snake-output/*' # Directory containing the generated files
           push: true
-          branch: main # Replace with your default branch if different
