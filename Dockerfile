@@ -29,4 +29,3 @@ RUN export YARN_CACHE_FOLDER="$(mktemp -d)" \
 COPY --from=builder /app/packages/action/dist/ /action-release/
 
 CMD ["node", "/action-release/index.js"]
-

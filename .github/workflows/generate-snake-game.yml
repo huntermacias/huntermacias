@@ -1,0 +1,41 @@
+name: Generate Snake Game
+
+# Triggers the workflow manually and on a schedule
+on:
+  workflow_dispatch: # Allows manual triggering
+  schedule:
+    - cron: '0 0 * * *' # Runs every day at midnight UTC
+
+jobs:
+  generate-snake:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v3
+
+      # Step 2: Generate Snake Game from Contribution Grid
+      - name: Generate Snake Game from Contribution Grid
+        uses: Platane/snk@v3.2.0
+        with:
+          # GitHub username to read the contribution graph from
+          # Using repository_owner ensures it uses your username
+          github_user_name: ${{ github.repository_owner }}
+
+          # List of files to generate
+          outputs: |
+            snake-output/github-contributions-snake.svg
+            snake-output/github-contributions-snake-dark.svg?palette=github-dark
+            snake-output/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+
+      # Step 3: Commit and Push the Generated Files
+      - name: Commit and Push Snake Game
+        uses: EndBug/add-and-commit@v9
+        with:
+          author_name: huntermacias # Replace with your name if different
+          author_email: your-email@example.com # Replace with your email
+          message: "Update snake game [skip ci]"
+          add: 'snake-output/*' # Directory containing the generated files
+          push: true
+          branch: main # Replace with your default branch if different
