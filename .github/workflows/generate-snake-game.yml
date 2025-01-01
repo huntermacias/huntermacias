@@ -34,7 +34,7 @@ jobs:
         uses: EndBug/add-and-commit@v9
         with:
           author_name: huntermacias # Replace with your name if different
-          author_email: your-email@example.com # Replace with your email
+          author_email: supercodersf@gmail.com # Replace with your email
           message: "Update snake game [skip ci]"
           add: 'snake-output/*' # Directory containing the generated files
           push: true
