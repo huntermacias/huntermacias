@@ -1,0 +1,47 @@
+name: Update public profile activity
+
+on:
+  workflow_dispatch:
+  schedule:
+    # Every day at 16:37 UTC. UTC schedules can be delayed by GitHub.
+    - cron: '37 16 * * *'
+
+permissions:
+  contents: write
+
+concurrency:
+  group: profile-activity
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: true
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Generate public project cards
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_PROFILE_USERNAME: huntermacias
+        run: python scripts/update_activity.py
+
+      - name: Commit only if cards actually changed
+        run: |
+          git add assets/activity-dark.svg assets/activity-light.svg
+          if git diff --cached --quiet; then
+            echo 'No repository metadata changes.'
+            exit 0
+          fi
+          git -c user.name='github-actions[bot]' \
+              -c user.email='41898282+github-actions[bot]@users.noreply.github.com' \
+              commit -m 'chore(profile): refresh public project cards'
+          git push
