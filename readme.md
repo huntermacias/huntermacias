@@ -86,8 +86,6 @@ flowchart LR
   <img src="https://raw.githubusercontent.com/huntermacias/huntermacias/main/assets/activity-dark.svg" width="100%" alt="A visual index of selected public repositories. The optional GitHub Actions workflow refreshes this image from public repository metadata." />
 </picture>
 
-This is a **public-project signal**, not an activity score. The image refreshes from GitHub's public repository API when the included workflow is enabled; private work is never included.
-
 Some public repositories worth exploring: **[Spikeproof releases](https://github.com/huntermacias/spikeproof-releases)** · **[Similarity-Scout](https://github.com/huntermacias/Similarity-Scout)** · **[hunter.me](https://github.com/huntermacias/hunter.me)**. These are different kinds of work, and not all represent my current technical approach.
 
 ### The work I gravitate toward
